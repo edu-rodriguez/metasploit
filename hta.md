@@ -7,3 +7,4 @@
 7. Empezamos el exploit -> `exploit`
 8. Y ya podemos ver los comandos que podemos usar usando el comando `help`
 9. Para ver las sesiones activas -> `sessions`
+10. Para conectarnos a una session -> `sessions -i (id de la sesion)`
